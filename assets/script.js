@@ -28,6 +28,7 @@ let typed = new Typed('.type', {
         'sql',
         'c#',
         'python',
+        'react',
         ''
     ],
     typeSpeed: 69,
